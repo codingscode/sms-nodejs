@@ -1,10 +1,11 @@
 
 
+no terminal:
+   npm run dev
 
 
 
-
-
+ver http://localhost:3331/health
 
 
 
